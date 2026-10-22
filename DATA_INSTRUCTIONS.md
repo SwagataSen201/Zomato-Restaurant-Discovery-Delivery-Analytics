@@ -15,4 +15,4 @@ https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data
 
 The raw dataset is not included in this repository by default. This avoids redistributing third-party material without first verifying the applicable permissions.
 
-See [`DATASET_LICENSE.md`](../DATASET_LICENSE.md) for attribution and licensing notes.
+See [`LICENSE.md`](../DATASET_LICENSE.md) for attribution and licensing notes.
