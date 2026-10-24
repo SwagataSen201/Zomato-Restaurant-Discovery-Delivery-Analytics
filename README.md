@@ -19,6 +19,13 @@ This project uses SQL (Postgresql) to investigate eight questions about restaura
 
 The objective is to demonstrate how structured data analysis can support product hypotheses and inform subsequent measurement—not to claim unobserved revenue or customer outcomes.
 
+
+## Power BI Dashboard
+
+The dashboard provides an overview of restaurant supply, delivery availability, rating coverage, average ratings, and city-level distribution across the dataset.
+
+<img width="1744" height="973" alt="zomato_dashboard_overview" src="https://github.com/user-attachments/assets/d6831b43-aee3-47a9-9702-3ee55ae2e4ef" />
+
 ## Business Questions
 
 1. Which Indian cities have the largest restaurant supply?
